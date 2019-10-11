@@ -1,4 +1,4 @@
-module github.com/yuanfan/excelize
+module github.com/yuanfan/excelize/v3
 
 go 1.12
 
